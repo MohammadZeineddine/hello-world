@@ -8,5 +8,5 @@ import hello_world
 
 class TestHelloWorld:
 
-    def test_hello_world():
-        assert hello_world() == 'Hello world'
+    def test_hello_worldf(self):
+        assert hello_world.hello_world() == 'Hello World'
